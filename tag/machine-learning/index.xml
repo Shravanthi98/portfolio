@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | </title>
+    <link>https://shravanthi98.github.io/portfolio/tag/machine-learning/</link>
+      <atom:link href="https://shravanthi98.github.io/portfolio/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shravanthi98.github.io/portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://shravanthi98.github.io/portfolio/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Classification of Hand-written Digits based on HOG Feature Descriptor using Multi-class SVM</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project3/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forged Signature Detection using Convolutional Neural Networks</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project2/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suspicious Activity Detection through Automated Surveillance </title>
+      <link>https://shravanthi98.github.io/portfolio/project/project4/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

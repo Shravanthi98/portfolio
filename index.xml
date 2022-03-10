@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://shravanthi98.github.io/portfolio/</link>
+      <atom:link href="https://shravanthi98.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shravanthi98.github.io/portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title></title>
+      <link>https://shravanthi98.github.io/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://shravanthi98.github.io/portfolio/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classification of Hand-written Digits based on HOG Feature Descriptor using Multi-class SVM</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project3/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an All-Digital Phase-Locked Loop using CORDIC Algorithm</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project8/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Classification</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project1/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forged Signature Detection using Convolutional Neural Networks</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project2/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Resource Planning using a Markov Chain</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project6/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a HOG Feature Descriptor in C&#43;&#43;:</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project5/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Discrete Fourier Transform using CORDIC Algorithm</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project7/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suspicious Activity Detection through Automated Surveillance </title>
+      <link>https://shravanthi98.github.io/portfolio/project/project4/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Titanic Data Analysis</title>
+      <link>https://shravanthi98.github.io/portfolio/project/project9/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/project/project9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plane-Wave Fourier-Domain Beamforming with CNN-Assisted Resolution Enhancement</title>
+      <link>https://shravanthi98.github.io/portfolio/publication/publication1/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/publication/publication1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Dive into Titanic!</title>
+      <link>https://shravanthi98.github.io/portfolio/post/getting-started/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/post/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://shravanthi98.github.io/portfolio/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://shravanthi98.github.io/portfolio/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://shravanthi98.github.io/portfolio/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
