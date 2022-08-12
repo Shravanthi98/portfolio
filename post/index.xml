@@ -5,7 +5,7 @@
     <link>https://shravanthi98.github.io/portfolio/post/</link>
       <atom:link href="https://shravanthi98.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shravanthi98.github.io/portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Global Migration Trends - Top Destinations for Migrants in the World.</title>
+      <link>https://shravanthi98.github.io/portfolio/post/post2/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shravanthi98.github.io/portfolio/post/post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Dive into Titanic!</title>
-      <link>https://shravanthi98.github.io/portfolio/post/getting-started/</link>
+      <link>https://shravanthi98.github.io/portfolio/post/post1/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://shravanthi98.github.io/portfolio/post/getting-started/</guid>
+      <guid>https://shravanthi98.github.io/portfolio/post/post1/</guid>
       <description></description>
     </item>
     
